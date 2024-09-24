@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstagramBasic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DMs_string">DMs</string>
+    <string name="Feed_string">Feed</string>
+    <string name="user_example1">natural_arts</string>
+    <string name="icons_down">♥️ 🗨️ ✈️</string>
+</resources>
